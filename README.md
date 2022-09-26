@@ -4,7 +4,8 @@ Project
 ### [Quick Start: Visual Studio Code for Salesforce Development](https://trailhead.salesforce.com/content/learn/projects/quickstart-vscode-salesforce?trailmix_creator_id=rodrigolucas&trailmix_slug=salesforce-dx-and-visual-studio-code)
         Set up and integrate the recommended IDE for Salesforce development.
 <hr>
-Project 
+Project
+
 ### [Quick Start: Salesforce DX](https://trailhead.salesforce.com/content/learn/projects/quick-start-salesforce-dx?trailmix_creator_id=rodrigolucas&trailmix_slug=salesforce-dx-and-visual-studio-code)
         Use the alesforce command-line interface to create, convert, and deploy apps.
 <hr>
