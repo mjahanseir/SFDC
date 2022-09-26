@@ -1,6 +1,8 @@
 # Salesforce Project DX and Visual Studio Code
 How to get started with Salesforce DX and VSC
 
+<hr>
+
 Project 
 ### [Quick Start: Visual Studio Code for Salesforce Development](https://trailhead.salesforce.com/content/learn/projects/quickstart-vscode-salesforce?trailmix_creator_id=rodrigolucas&trailmix_slug=salesforce-dx-and-visual-studio-code)
         Set up and integrate the recommended IDE for Salesforce development.
